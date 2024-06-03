@@ -90,7 +90,7 @@ Mantén siempre la coherencia en la personalidad del bot y actualiza el contenid
   - **Requisitos de Nivel y Precio:** Spectre Arms, Nivel 3, 3540 TK
   - **Rieles y Silenciador:** 0, ✓ Cañón roscado
   - **Modos de Disparo:** Semi-automático, Automático completo
-- **CX8 Storm Screenshot:**
+- **CX8 Storm :**
   - **Calibre y Cargadores:** CX8 Storm, 9x19mm, 32 balas
   - **Requisitos de Nivel y Precio:** Spectre Arms, Nivel 2, 3346 TK
   - **Rieles y Silenciador:** 4, ✓ Cañón roscado
