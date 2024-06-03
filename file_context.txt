@@ -62,151 +62,496 @@ Mantén siempre la coherencia en la personalidad del bot y actualiza el contenid
 
 ### Lista de Armas:
 
-#### Rifles de Asalto:
+#### Rifles de Asalto
+- **AK-109 Alpha:**
+  - **Calibre y Cargadores:** 7.62x39mm, 30 balas, 75 balas tambor
+  - **Requisitos de Nivel y Precio:** Spectre, Nivel 5, 43854 TK
+  - **Rieles y Silenciador:** 6 (Riel lateral AK + 5), ✓ Cañón roscado
+  - **Modos de Disparo:** Semi-automático, Automático completo
+- **AK5C:**
+  - **Calibre y Cargadores:** 5.56x45mm, 30 balas
+  - **Requisitos de Nivel y Precio:** Spectre, Nivel 4, 12145 TK
+  - **Rieles y Silenciador:** 4, ✓ Cañón roscado
+  - **Modos de Disparo:** Semi-automático, Automático completo
+- **AK-74:**
+  - **Calibre y Cargadores:** 5.45x39mm, 30 balas
+  - **Requisitos de Nivel y Precio:** Spectre, Nivel 3, 5054 TK
+  - **Rieles y Silenciador:** 1 (Riel lateral AK), ✓ Cañón roscado
+  - **Modos de Disparo:** Semi-automático, Automático completo
+- **AKM:**
+  - **Calibre y Cargadores:** 7.62x39mm, 30 balas, 75 balas tambor
+  - **Requisitos de Nivel y Precio:** Spectre, Nivel 2, 5845 TK
+  - **Rieles y Silenciador:** 1 (Riel lateral AK), ✓ Cañón roscado
+  - **Modos de Disparo:** Semi-automático, Automático completo
+- **AKS-74U:**
+  - **Calibre y Cargadores:** 5.45x39mm, 30 balas
+  - **Requisitos de Nivel y Precio:** Spectre, Nivel 2, 4151 TK
+  - **Rieles y Silenciador:** 1 (Riel lateral AK), ✓ Cañón roscado
+  - **Modos de Disparo:** Semi-automático, Automático completo
+- **AS VAL:**
+  - **Calibre y Cargadores:** 9x39mm, 10 balas VSS, 20 balas ASVAL, 30 balas VSS
+  - **Requisitos de Nivel y Precio:** Spectre, Nivel 4, 14181 TK
+  - **Rieles y Silenciador:** 4 (Riel lateral AK + 3), Supresor integrado
+  - **Modos de Disparo:** Semi-automático, Automático completo
+- **AUG A3:**
+  - **Calibre y Cargadores:** 5.56x45mm, 30 balas
+  - **Requisitos de Nivel y Precio:** Spectre, Nivel 3, 6574 TK
+  - **Rieles y Silenciador:** 0, ✓ Cañón roscado
+  - **Modos de Disparo:** Semi-automático, Automático completo
+- **Famas-G2:**
+  - **Calibre y Cargadores:** 5.56x45mm, 30 balas
+  - **Requisitos de Nivel y Precio:** Spectre, Nivel 3, 4604 TK
+  - **Rieles y Silenciador:** 0, ✓ Cañón roscado
+  - **Modos de Disparo:** Semi-automático, Automático completo, Ráfaga de 3 disparos
+- **H&K-G36k:**
+  - **Calibre y Cargadores:** 5.56X45mm, 30 balas G36k, 40 balas G36k
+  - **Requisitos de Nivel y Precio:** Spectre, Nivel 4, 10578 TK
+  - **Rieles y Silenciador:** 4, ✓ Cañón roscado
+  - **Modos de Disparo:** Semi-automático, Automático completo, Ráfaga de 2 disparos
+- **G3A3:**
+  - **Calibre y Cargadores:** 7.62x51mm, 20 balas, 30 balas
+  - **Requisitos de Nivel y Precio:** Spectre, Nivel 3, 8180 TK
+  - **Rieles y Silenciador:** 1, ✓ Cañón roscado
+  - **Modos de Disparo:** Semi-automático, Automático completo
+- **Galil:**
+  - **Calibre y Cargadores:** 5.56x45mm, 30 balas
+  - **Requisitos de Nivel y Precio:** Spectre, Nivel 3, 5124 TK
+  - **Rieles y Silenciador:** 4, ✓ Cañón roscado
+  - **Modos de Disparo:** Semi-automático, Automático completo
+- **L85A2:**
+  - **Calibre y Cargadores:** 5.56x45mm, 30 balas
+  - **Requisitos de Nivel y Precio:** Spectre, Nivel 3, 4951 TK
+  - **Rieles y Silenciador:** 4, ✓ Cañón roscado
+  - **Modos de Disparo:** Semi-automático, Automático completo
+- **Colt-M16A2:**
+  - **Calibre y Cargadores:** 5.56x45mm, 30 balas
+  - **Requisitos de Nivel y Precio:** Spectre, Nivel 2, 3429 TK
+  - **Rieles y Silenciador:** 0, ✓ Cañón roscado
+  - **Modos de Disparo:** Semi-automático, Ráfaga de 3 disparos
+- **M1A SASS:**
+  - **Calibre y Cargadores:** 7.62x51mm, 20 balas, 50 balas
+  - **Requisitos de Nivel y Precio:** Spectre, Nivel 4, 52640 TK
+  - **Rieles y Silenciador:** 4 (5 ranuras), ✓ Cañón roscado
+  - **Modos de Disparo:** Semi-automático
+- **M4 Carbine:**
+  - **Calibre y Cargadores:** 5.56x45mm, 30 balas
+  - **Requisitos de Nivel y Precio:** Spectre, Nivel 3, 5574 TK
+  - **Rieles y Silenciador:** 5, ✓ Cañón roscado
+  - **Modos de Disparo:** Semi-automático, Automático completo
+- **SCAR-L:**
+  - **Calibre y Cargadores:** 5.56x45mm, 30 balas
+  - **Requisitos de Nivel y Precio:** Spectre, Nivel 3, 6024 TK
+  - **Rieles y Silenciador:** 4, ✓ Cañón roscado
+  - **Modos de Disparo:** Semi-automático, Automático completo
+- **SG552:**
+  - **Calibre y Cargadores:** 5.56x45mm, 30 balas
+  - **Requisitos de Nivel y Precio:** Spectre, Nivel 4, 6360 TK
+  - **Rieles y Silenciador:** 1, ✓ Cañón roscado
+  - **Modos de Disparo:** Semi-automático, Automático completo, Ráfaga de 3 disparos
 - **SKS modelo 1968:**
   - **Calibre y Cargadores:** 7.62x39mm, 30 balas, 75 balas tambor
-  - **Requisitos de Nivel y Precio:** Spectre Arms, Nivel 1, 3920 TK
+  - **Requisitos de Nivel y Precio:** Spectre, Nivel 1, 3920 TK
   - **Rieles y Silenciador:** 0, ✓ Cañón roscado
   - **Modos de Disparo:** Semi-automático
 - **SKS Tapco:**
   - **Calibre y Cargadores:** 7.62x39mm, 30 balas, 75 balas tambor
-  - **Requisitos de Nivel y Precio:** Spectre Arms, Nivel 3, 10860 TK
+  - **Requisitos de Nivel y Precio:** Spectre, Nivel 3, 10860 TK
   - **Rieles y Silenciador:** 5, ✓ Cañón roscado
   - **Modos de Disparo:** Semi-automático
 - **Stoner 63:**
   - **Calibre y Cargadores:** 5.56x45mm, 30 balas
-  - **Requisitos de Nivel y Precio:** Spectre Arms, Nivel 4, 7104 TK
+  - **Requisitos de Nivel y Precio:** Spectre, Nivel 4, 7104 TK
   - **Rieles y Silenciador:** 0, ✓ Cañón roscado
   - **Modos de Disparo:** Automático completo
 - **VSS:**
   - **Calibre y Cargadores:** 9x39mm, 10 balas VSS, 20 balas ASVAL, 30 balas VSS
-  - **Requisitos de Nivel y Precio:** Spectre Arms, Nivel 3, 7367 TK
+  - **Requisitos de Nivel y Precio:** Spectre, Nivel 3, 7367 TK
   - **Rieles y Silenciador:** 1 (Riel lateral AK), Supresor integrado
   - **Modos de Disparo:** Semi-automático, Automático completo
 
-#### Subfusiles (SMG):
-- **Agram 2000:**
-  - **Calibre y Cargadores:** 9x19mm, 30 balas
-  - **Requisitos de Nivel y Precio:** Spectre Arms, Nivel 3, 3540 TK
-  - **Rieles y Silenciador:** 0, ✓ Cañón roscado
+#### Rifles "Únicos" en "Ghosts of Tabor"
+- **AK-109 Alpha (Edición Padres Fundadores):**
+  - **Calibre y Cargadores:** 7.62x39mm, 30 balas, 75 balas tambor
+  - **Requisitos de Nivel y Precio:** Spectre, Nivel 5, 43854 TK
+  - **Rieles y Silenciador:** 6 (Riel lateral AK + 5), ✓ Cañón roscado
   - **Modos de Disparo:** Semi-automático, Automático completo
-- **CX8 Storm:**
-  - **Calibre y Cargadores:** CX8 Storm, 9x19mm, 32 balas
-  - **Requisitos de Nivel y Precio:** Spectre Arms, Nivel 2, 3346 TK
-  - **Rieles y Silenciador:** 4, ✓ Cañón roscado
-  - **Modos de Disparo:** Semi-automático, Automático completo, Ráfaga de 3 disparos
-- **Kriss Vector 9mm:**
-  - **Calibre y Cargadores:** 9x19mm, 33 balas
-  - **Requisitos de Nivel y Precio:** Spectre Arms, Nivel 4, 14797 TK
-  - **Rieles y Silenciador:** 2, ✓ Cañón roscado
-  - **Modos de Disparo:** Semi-automático, Automático completo, Ráfaga de 2 disparos
-- **Kriss Vector 10mm:**
-  - **Calibre y Cargadores:** 10mm, 30 balas
-  - **Requisitos de Nivel y Precio:** Spectre Arms, Nivel 4, 15530 TK
-  - **Rieles y Silenciador:** 2, ✓ Cañón roscado
-  - **Modos de Disparo:** Semi-automático, Automático completo, Ráfaga de 2 disparos
-- **Luty Crop:**
-  - **Calibre y Cargadores:** 9x19mm, 16 balas Improvisadas
-  - **Requisitos de Nivel y Precio:** Spectre Arms, Nivel 1, 1125 TK
-  - **Rieles y Silenciador:** ☒ No roscado
-  - **Modos de Disparo:** Automático completo
-- **Mac 10 Crop:**
-  - **Calibre y Cargadores:** 9x19mm, 32 balas
-  - **Requisitos de Nivel y Precio:** Spectre Arms, Nivel 2, 2474 TK
-  - **Rieles y Silenciador:** 0, ✓ Cañón roscado
-  - **Modos de Disparo:** Semi-automático, Automático completo
-- **MAT-49 Crop:**
-  - **Calibre y Cargadores:** 9x19mm, 32 balas
-  - **Requisitos de Nivel y Precio:** Spectre Arms, Nivel 1, 2274 TK
-  - **Rieles y Silenciador:** ☒ No roscado
-  - **Modos de Disparo:** Automático completo
-- **H&K-MP5 Crop:**
-  - **Calibre y Cargadores:** 9x19mm, 30 balas
-  - **Requisitos de Nivel y Precio:** Spectre Arms, Nivel 3, 3514 TK
-  - **Rieles y Silenciador:** 0, ✓ Cañón roscado
-  - **Modos de Disparo:** Semi-automático, Automático completo
-- **H&K-MP7 Crop:**
-  - **Calibre y Cargadores:** 4.6x30mm, 40 balas
-  - **Requisitos de Nivel y Precio:** Spectre Arms, Nivel 4, 12444 TK
-  - **Rieles y Silenciador:** 3, ✓ Cañón roscado
-  - **Modos de Disparo:** Semi-automático, Automático completo
-- **MP9 Crop:**
-  - **Calibre y Cargadores:** 9x19mm, 30 balas
-  - **Requisitos de Nivel y Precio:** Spectre Arms, Nivel 3, 6080 TK
-  - **Rieles y Silenciador:** 2, ✓ Cañón roscado
-  - **Modos de Disparo:** Semi-automático, Automático completo
-- **MP40 Crop:**
-  - **Calibre y Cargadores:** 9x19mm, 32 balas
-  - **Requisitos de Nivel y Precio:** Spectre Arms, Nivel 1, 2534 TK
-  - **Rieles y Silenciador:** ☒ No roscado
-  - **Modos de Disparo:** Semi-automático, Automático completo
-- **FNP90 Crop:**
-  - **Calibre y Cargadores:** 5.7x28mm, 50 balas
-  - **Requisitos de Nivel y Precio:** Spectre Arms, Nivel 5, 28244 TK
-  - **Rieles y Silenciador:** 1, ✓ Cañón roscado
-  - **Modos de Disparo:** Semi-automático, Automático completo
-- **PP Bizon Crop:**
-  - **Calibre y Cargadores:** 9x18mm, 64 balas Helicoidal
-  - **Requisitos de Nivel y Precio:** Spectre Arms, Nivel 4, 5485 TK
+  - **DLC:** Padres Fundadores
+- **AK74 Gold Wipe Reward (Oro):**
+  - **Calibre y Cargadores:** 5.45x39mm, 30 balas
+  - **Requisitos de Nivel y Precio:** Recompensa de Borrado #1, Priceless
   - **Rieles y Silenciador:** 1 (Riel lateral AK), ✓ Cañón roscado
   - **Modos de Disparo:** Semi-automático, Automático completo
-- **PPSH MODEL 1945 Crop:**
+- **UwU AKM:**
+  - **Calibre y Cargadores:** 7.62x39mm, 30 balas, 75 balas tambor
+  - **Requisitos de Nivel y Precio:** Mercader de la Muerte, + DLC (Spectre @Nivel 2), 5845 TK
+  - **Rieles y Silenciador:** 1 (Riel lateral AK), ✓ Cañón roscado
+- **Krtek SKS (Auto):**
+  - **Calibre y Cargadores:** 7.62x39mm, 30 balas, 75 balas tambor
+  - **Requisitos de Nivel y Precio:** Jefe Krtek de SiloFenix, N/A
+  - **Rieles y Silenciador:** 1 (Accesorio de riel disponible), ☒ Cañón roscado
+  - **Modos de Disparo:** Automático completo
+- **M4 Carbine Nuclear Night:**
+  - **Calibre y Cargadores:** 5.56x45mm, 30 balas
+  - **Requisitos de Nivel y Precio:** Spectre, Nivel 3, 5574 TK
+  - **Rieles y Silenciador:** 5, ✓ Cañón roscado
+  - **DLC:** Noche Nuclear
+- **M4 Carbine One Shot:**
+  - **Calibre y Cargadores:** 5.56x45mm, 30 balas
+  - **Requisitos de Nivel y Precio:** Mercader de la Muerte, + DLC (Spectre @Nivel 3), 5574 TK
+  - **Rieles y Silenciador:** 5, ✓ Cañón roscado
+
+#### Subfusiles (SMG)
+- **Agram 2000:**
+  - **Calibre y Cargadores:** 9x19mm, 30 balas
+  - **Requisitos de Nivel y Precio:** Spectre, Nivel 3, 3540 TK
+  - **Rieles y Silenciador:** 0, ✓ Cañón roscado
+  - **Modos de Disparo:** Semi-automático, Automático completo
+- **CX8 Storm Screenshot:**
+  - **Calibre y Cargadores:** CX8 Storm, 9x19mm, 32 balas
+  - **Requisitos de Nivel y Precio:** Spectre, Nivel 2, 3346 TK
+  - **Rieles y Silenciador:** 4, ✓ Cañón roscado
+  - **Modos de Disparo:** Semi-automático, Automático completo, Ráfaga de 3 disparos
+- **Vector 9mm:**
+  - **Calibre y Cargadores:** Kriss Vector, 9x19mm, 33 balas
+  - **Requisitos de Nivel y Precio:** Spectre, Nivel 4, 14797 TK
+  - **Rieles y Silenciador:** 2, ✓ Cañón roscado
+  - **Modos de Disparo:** Semi-automático, Automático completo, Ráfaga de 2 disparos
+- **Vector 10mm:**
+  - **Calibre y Cargadores:** Kriss Vector, 10mm, 30 balas
+  - **Requisitos de Nivel y Precio:** Spectre, Nivel 4, 15530 TK
+  - **Rieles y Silenciador:** 2, ✓ Cañón roscado
+  - **Modos de Disparo:** Semi-automático, Automático completo, Ráfaga de 2 disparos
+- **Luty:**
+  - **Calibre y Cargadores:** 9x19mm, 16 balas Improvisadas
+  - **Requisitos de Nivel y Precio:** Spectre, Nivel 1, 1125 TK
+  - **Rieles y Silenciador:** ☒ No roscado
+  - **Modos de Disparo:** Automático completo
+- **Mac 10:**
+  - **Calibre y Cargadores:** 9x19mm, 32 balas
+  - **Requisitos de Nivel y Precio:** Spectre, Nivel 2, 2474 TK
+  - **Rieles y Silenciador:** 0, ✓ Cañón roscado
+  - **Modos de Disparo:** Semi-automático, Automático completo
+- **MAT-49:**
+  - **Calibre y Cargadores:** 9x19mm, 32 balas
+  - **Requisitos de Nivel y Precio:** Spectre, Nivel 1, 2274 TK
+  - **Rieles y Silenciador:** ☒ No roscado
+  - **Modos de Disparo:** Automático completo
+- **H&K-MP5:**
+  - **Calibre y Cargadores:** 9x19mm, 30 balas
+  - **Requisitos de Nivel y Precio:** Spectre, Nivel 3, 3514 TK
+  - **Rieles y Silenciador:** 0, ✓ Cañón roscado
+  - **Modos de Disparo:** Semi-automático, Automático completo
+- **H&K-MP7:**
+  - **Calibre y Cargadores:** 4.6x30mm, 40 balas
+  - **Requisitos de Nivel y Precio:** Spectre, Nivel 4, 12444 TK
+  - **Rieles y Silenciador:** 3, ✓ Cañón roscado
+  - **Modos de Disparo:** Semi-automático, Automático completo
+- **MP9:**
+  - **Calibre y Cargadores:** 9x19mm, 30 balas
+  - **Requisitos de Nivel y Precio:** Spectre, Nivel 3, 6080 TK
+  - **Rieles y Silenciador:** 2, ✓ Cañón roscado
+  - **Modos de Disparo:** Semi-automático, Automático completo
+- **MP40:**
+  - **Calibre y Cargadores:** 9x19mm, 32 balas
+  - **Requisitos de Nivel y Precio:** Spectre, Nivel 1, 2534 TK
+  - **Rieles y Silenciador:** ☒ No roscado
+  - **Modos de Disparo:** Semi-automático, Automático completo
+- **FNP90:**
+  - **Calibre y Cargadores:** 5.7x28mm, 50 balas
+  - **Requisitos de Nivel y Precio:** Spectre, Nivel 5, 28244 TK
+  - **Rieles y Silenciador:** 1, ✓ Cañón roscado
+  - **Modos de Disparo:** Semi-automático, Automático completo
+- **PP Bizon:**
+  - **Calibre y Cargadores:** 9x18mm, 64 balas Helicoidal
+  - **Requisitos de Nivel y Precio:** Spectre, Nivel 4, 5485 TK
+  - **Rieles y Silenciador:** 1 (Riel lateral AK), ✓ Cañón roscado
+  - **Modos de Disparo:** Semi-automático, Automático completo
+- **PPSH Model 1945:**
   - **Calibre y Cargadores:** 7.62x25mm, 71 balas
-  - **Requisitos de Nivel y Precio:** Spectre Arms, Nivel 4, 4234 TK
+  - **Requisitos de Nivel y Precio:** Spectre, Nivel 4, 4234 TK
   - **Rieles y Silenciador:** ☒ No roscado
   - **Modos de Disparo:** Semi-automático, Automático completo
-- **M1A1 Thompson Model 1928 Crop:**
+- **M1A1 Thompson Model 1928:**
   - **Calibre y Cargadores:** .45 ACP
-  - **Requisitos de Nivel y Precio:** Spectre Arms, Nivel 2, 2831 TK
+  - **Requisitos de Nivel y Precio:** Spectre, Nivel 2, 2831 TK
   - **Rieles y Silenciador:** ☒ No roscado
   - **Modos de Disparo:** Semi-automático, Automático completo
-- **Uzi Crop:**
+- **H&K-UMP45:**
+  - **Calibre y Cargadores:** .45 ACP, 25 balas
+  - **Requisitos de Nivel y Precio:** Spectre, Nivel 4, 5604 TK
+  - **Rieles y Silenciador:** 4, ✓ Cañón roscado
+  - **Modos de Disparo:** Semi-automático, Automático completo, Ráfaga de 3 disparos
+- **Uzi:**
   - **Calibre y Cargadores:** 9x19mm, 32 balas
   - **Requisitos de Nivel y Precio:** Actualmente removido, ??? TK
   - **Rieles y Silenciador:** 3, ☒ No roscado
   - **Modos de Disparo:** Semi-automático, Automático completo
 
-#### Pistolas:
+#### Pistolas
 - **C1911:**
   - **Calibre y Cargadores:** .45 ACP, 7 balas
-  - **Requisitos de Nivel y Precio:** Spectre Arms, Nivel 2, 1249 TK
+  - **Requisitos de Nivel y Precio:** Spectre, Nivel 2, 1249 TK
   - **Rieles y Silenciador:** 0, ✓ Cañón roscado
   - **Modos de Disparo:** Semi-automático
 - **Desert Eagle:**
   - **Calibre y Cargadores:** Desert Eagle, .50 AE, 7 balas
-  - **Requisitos de Nivel y Precio:** Spectre Arms, Nivel 4, 6424 TK
+  - **Requisitos de Nivel y Precio:** Spectre, Nivel 4, 6424 TK
   - **Rieles y Silenciador:** 1, ☒ No roscado
   - **Modos de Disparo:** Semi-automático
-- **FN57 Crop:**
+- **FN57:**
   - **Calibre y Cargadores:** FN57, 5.7x28mm, 20 balas, 30 balas
-  - **Requisitos de Nivel y Precio:** Spectre Arms, Nivel 4, 4824 TK
+  - **Requisitos de Nivel y Precio:** Spectre, Nivel 4, 4824 TK
   - **Rieles y Silenciador:** 1, ✓ Cañón roscado
   - **Modos de Disparo:** Semi-automático
 - **Glock 17:**
   - **Calibre y Cargadores:** Glock 17, 9x19mm, 17 balas, 21 balas, 33 balas, 50 balas
-  - **Requisitos de Nivel y Precio:** Spectre Arms, Nivel 2, 1624 TK
+  - **Requisitos de Nivel y Precio:** Spectre, Nivel 2, 1624 TK
   - **Rieles y Silenciador:** 1, ✓ Cañón roscado
   - **Modos de Disparo:** Semi-automático
 - **HK USP45:**
   - **Calibre y Cargadores:** HK USP45, .45 ACP, 12 balas
-  - **Requisitos de Nivel y Precio:** Spectre Arms, Nivel 3, 4256 TK
+  - **Requisitos de Nivel y Precio:** Spectre, Nivel 3, 4256 TK
   - **Rieles y Silenciador:** 1, ✓ Cañón roscado
   - **Modos de Disparo:** Semi-automático
 - **Makarov PM:**
   - **Calibre y Cargadores:** Makarov PM, 9x18mm, 8 balas
-  - **Requisitos de Nivel y Precio:** Spectre Arms, Nivel 1, 460 TK
+  - **Requisitos de Nivel y Precio:** Spectre, Nivel 1, 460 TK
   - **Rieles y Silenciador:** 0, ☒ No roscado
   - **Modos de Disparo:** Semi-automático
 - **Ruger MK4:**
   - **Calibre y Cargadores:** Ruger MK4, .22 LR, 10 balas
-  - **Requisitos de Nivel y Precio:** Spectre Arms, Nivel 1, 784 TK
+  - **Requisitos de Nivel y Precio:** Spectre, Nivel 1, 784 TK
+  - **Rieles y Silenciador:** 2, ✓ Cañón - **Krtek SKS (Auto):**
+  - **Calibre y Cargadores:** 7.62x39mm, 30 balas, 75 balas tambor
+  - **Requisitos de Nivel y Precio:** Jefe Krtek de SiloFenix, N/A
+  - **Rieles y Silenciador:** 1 (Accesorio de riel disponible), ☒ Cañón roscado
+  - **Modos de Disparo:** Automático completo
+- **M4 Carbine Nuclear Night:**
+  - **Calibre y Cargadores:** 5.56x45mm, 30 balas
+  - **Requisitos de Nivel y Precio:** Spectre, Nivel 3, 5574 TK
+  - **Rieles y Silenciador:** 5, ✓ Cañón roscado
+  - **DLC:** Noche Nuclear
+- **M4 Carbine One Shot:**
+  - **Calibre y Cargadores:** 5.56x45mm, 30 balas
+  - **Requisitos de Nivel y Precio:** Mercader de la Muerte, + DLC (Spectre @Nivel 3), 5574 TK
+  - **Rieles y Silenciador:** 5, ✓ Cañón roscado
+
+#### Subfusiles (SMG)
+- **Agram 2000:**
+  - **Calibre y Cargadores:** 9x19mm, 30 balas
+  - **Requisitos de Nivel y Precio:** Spectre, Nivel 3, 3540 TK
+  - **Rieles y Silenciador:** 0, ✓ Cañón roscado
+  - **Modos de Disparo:** Semi-automático, Automático completo
+- **CX8 Storm Screenshot:**
+  - **Calibre y Cargadores:** CX8 Storm, 9x19mm, 32 balas
+  - **Requisitos de Nivel y Precio:** Spectre, Nivel 2, 3346 TK
+  - **Rieles y Silenciador:** 4, ✓ Cañón roscado
+  - **Modos de Disparo:** Semi-automático, Automático completo, Ráfaga de 3 disparos
+- **Vector 9mm:**
+  - **Calibre y Cargadores:** Kriss Vector, 9x19mm, 33 balas
+  - **Requisitos de Nivel y Precio:** Spectre, Nivel 4, 14797 TK
+  - **Rieles y Silenciador:** 2, ✓ Cañón roscado
+  - **Modos de Disparo:** Semi-automático, Automático completo, Ráfaga de 2 disparos
+- **Vector 10mm:**
+  - **Calibre y Cargadores:** Kriss Vector, 10mm, 30 balas
+  - **Requisitos de Nivel y Precio:** Spectre, Nivel 4, 15530 TK
+  - **Rieles y Silenciador:** 2, ✓ Cañón roscado
+  - **Modos de Disparo:** Semi-automático, Automático completo, Ráfaga de 2 disparos
+- **Luty:**
+  - **Calibre y Cargadores:** 9x19mm, 16 balas Improvisadas
+  - **Requisitos de Nivel y Precio:** Spectre, Nivel 1, 1125 TK
+  - **Rieles y Silenciador:** ☒ No roscado
+  - **Modos de Disparo:** Automático completo
+- **Mac 10:**
+  - **Calibre y Cargadores:** 9x19mm, 32 balas
+  - **Requisitos de Nivel y Precio:** Spectre, Nivel 2, 2474 TK
+  - **Rieles y Silenciador:** 0, ✓ Cañón roscado
+  - **Modos de Disparo:** Semi-automático, Automático completo
+- **MAT-49:**
+  - **Calibre y Cargadores:** 9x19mm, 32 balas
+  - **Requisitos de Nivel y Precio:** Spectre, Nivel 1, 2274 TK
+  - **Rieles y Silenciador:** ☒ No roscado
+  - **Modos de Disparo:** Automático completo
+- **H&K-MP5:**
+  - **Calibre y Cargadores:** 9x19mm, 30 balas
+  - **Requisitos de Nivel y Precio:** Spectre, Nivel 3, 3514 TK
+  - **Rieles y Silenciador:** 0, ✓ Cañón roscado
+  - **Modos de Disparo:** Semi-automático, Automático completo
+- **H&K-MP7:**
+  - **Calibre y Cargadores:** 4.6x30mm, 40 balas
+  - **Requisitos de Nivel y Precio:** Spectre, Nivel 4, 12444 TK
+  - **Rieles y Silenciador:** 3, ✓ Cañón roscado
+  - **Modos de Disparo:** Semi-automático, Automático completo
+- **MP9:**
+  - **Calibre y Cargadores:** 9x19mm, 30 balas
+  - **Requisitos de Nivel y Precio:** Spectre, Nivel 3, 6080 TK
+  - **Rieles y Silenciador:** 2, ✓ Cañón roscado
+  - **Modos de Disparo:** Semi-automático, Automático completo
+- **MP40:**
+  - **Calibre y Cargadores:** 9x19mm, 32 balas
+  - **Requisitos de Nivel y Precio:** Spectre, Nivel 1, 2534 TK
+  - **Rieles y Silenciador:** ☒ No roscado
+  - **Modos de Disparo:** Semi-automático, Automático completo
+- **FNP90:**
+  - **Calibre y Cargadores:** 5.7x28mm, 50 balas
+  - **Requisitos de Nivel y Precio:** Spectre, Nivel 5, 28244 TK
+  - **Rieles y Silenciador:** 1, ✓ Cañón roscado
+  - **Modos de Disparo:** Semi-automático, Automático completo
+- **PP Bizon:**
+  - **Calibre y Cargadores:** 9x18mm, 64 balas Helicoidal
+  - **Requisitos de Nivel y Precio:** Spectre, Nivel 4, 5485 TK
+  - **Rieles y Silenciador:** 1 (Riel lateral AK), ✓ Cañón roscado
+  - **Modos de Disparo:** Semi-automático, Automático completo
+- **PPSH Model 1945:**
+  - **Calibre y Cargadores:** 7.62x25mm, 71 balas
+  - **Requisitos de Nivel y Precio:** Spectre, Nivel 4, 4234 TK
+  - **Rieles y Silenciador:** ☒ No roscado
+  - **Modos de Disparo:** Semi-automático, Automático completo
+- **M1A1 Thompson Model 1928:**
+  - **Calibre y Cargadores:** .45 ACP
+  - **Requisitos de Nivel y Precio:** Spectre, Nivel 2, 2831 TK
+  - **Rieles y Silenciador:** ☒ No roscado
+  - **Modos de Disparo:** Semi-automático, Automático completo
+- **H&K-UMP45:**
+  - **Calibre y Cargadores:** .45 ACP, 25 balas
+  - **Requisitos de Nivel y Precio:** Spectre, Nivel 4, 5604 TK
+  - **Rieles y Silenciador:** 4, ✓ Cañón roscado
+  - **Modos de Disparo:** Semi-automático, Automático completo, Ráfaga de 3 disparos
+- **Uzi:**
+  - **Calibre y Cargadores:** 9x19mm, 32 balas
+  - **Requisitos de Nivel y Precio:** Actualmente removido, ??? TK
+  - **Rieles y Silenciador:** 3, ☒ No roscado
+  - **Modos de Disparo:** Semi-automático, Automático completo
+
+#### Pistolas
+- **C1911:**
+  - **Calibre y Cargadores:** .45 ACP, 7 balas
+  - **Requisitos de Nivel y Precio:** Spectre, Nivel 2, 1249 TK
+  - **Rieles y Silenciador:** 0, ✓ Cañón roscado
+  - **Modos de Disparo:** Semi-automático
+- **Desert Eagle:**
+  - **Calibre y Cargadores:** Desert Eagle, .50 AE, 7 balas
+  - **Requisitos de Nivel y Precio:** Spectre, Nivel 4, 6424 TK
+  - **Rieles y Silenciador:** 1, ☒ No roscado
+  - **Modos de Disparo:** Semi-automático
+- **FN57:**
+  - **Calibre y Cargadores:** FN57, 5.7x28mm, 20 balas, 30 balas
+  - **Requisitos de Nivel y Precio:** Spectre, Nivel 4, 4824 TK
+  - **Rieles y Silenciador:** 1, ✓ Cañón roscado
+  - **Modos de Disparo:** Semi-automático
+- **Glock 17:**
+  - **Calibre y Cargadores:** Glock 17, 9x19mm, 17 balas, 21 balas, 33 balas, 50 balas
+  - **Requisitos de Nivel y Precio:** Spectre, Nivel 2, 1624 TK
+  - **Rieles y Silenciador:** 1, ✓ Cañón roscado
+  - **Modos de Disparo:** Semi-automático
+- **HK USP45:**
+  - **Calibre y Cargadores:** HK USP45, .45 ACP, 12 balas
+  - **Requisitos de Nivel y Precio:** Spectre, Nivel 3, 4256 TK
+  - **Rieles y Silenciador:** 1, ✓ Cañón roscado
+  - **Modos de Disparo:** Semi-automático
+- **Makarov PM:**
+  - **Calibre y Cargadores:** Makarov PM, 9x18mm, 8 balas
+  - **Requisitos de Nivel y Precio:** Spectre, Nivel 1, 460 TK
+  - **Rieles y Silenciador:** 0, ☒ No roscado
+  - **Modos de Disparo:** Semi-automático
+- **Ruger MK4:**
+  - **Calibre y Cargadores:** Ruger MK4, .22 LR, 10 balas
+  - **Requisitos de Nivel y Precio:** Spectre, Nivel 1, 784 TK
   - **Rieles y Silenciador:** 2, ✓ Cañón roscado
   - **Modos de Disparo:** Semi-automático
 - **Tokarev:**
   - **Calibre y Cargadores:** TT-33, 7.62x25mm, 8 balas
-  - **Requisitos de Nivel y Precio:** Spectre Arms, Nivel 2, 1500 TK
+  - **Requisitos de Nivel y Precio:** Spectre, Nivel 2, 1500 TK
   - **Rieles y Silenciador:** 0, ☒ No roscado
   - **Modos de Disparo:** Semi-automático
+
+#### Pistolas Únicas
+- **UWU 1911:**
+  - **Calibre y Cargadores:** C1911 UWU, .45 ACP, 7 balas
+  - **Requisitos de Nivel y Precio:** Merchant of Death + DLC (Spectre @ Nivel 2), 1249 TK
+  - **Rieles y Silenciador:** 0, ✓ Cañón roscado
+  - **Modos de Disparo:** Semi-automático
+- **Deagle GOTY:**
+  - **Calibre y Cargadores:** Desert Eagle GOTY (Oro) Tiger-Striped Edition, .50 AE, 7 balas
+  - **Requisitos de Nivel y Precio:** Spectre Nivel 4 (Jugadores antes del 2024-01-03), 6424 TK
+  - **Rieles y Silenciador:** 1, ☒ No roscado
+  - **Modos de Disparo:** Semi-automático
+- **UWU Glock:**
+  - **Calibre y Cargadores:** Glock 17 UWU, 9x19mm, 17 balas, 21 balas, 33 balas, 50 balas
+  - **Requisitos de Nivel y Precio:** Merchant of Death + DLC (Spectre @ Nivel 2), 1624 TK
+  - **Rieles y Silenciador:** 1, ✓ Cañón roscado
+  - **Modos de Disparo:** Semi-automático
+- **JW 1911:**
+  - **Calibre y Cargadores:** JW 2011, .45 ACP, 17 balas
+  - **Requisitos de Nivel y Precio:** Merchant of Death + DLC (Spectre @ Nivel 2), 1249 TK
+  - **Rieles y Silenciador:** 1, ✓ Cañón roscado
+  - **Modos de Disparo:** Semi-automático
+- **JW G34:**
+  - **Calibre y Cargadores:** JW G34, 9x19mm, 21 balas, 17 balas, 33 balas, 50 balas
+  - **Requisitos de Nivel y Precio:** Merchant of Death + DLC (Spectre @ Nivel 2), 1624 TK
+  - **Rieles y Silenciador:** 1, ✓ Cañón roscado
+  - **Modos de Disparo:** Semi-automático
+- **Golden Tokarev TT-33:**
+  - **Calibre y Cargadores:** Tokarev (Oro) TT-33, 7.62x25mm, 8 balas
+  - **Requisitos de Nivel y Precio:** Silo Fenix Boss Krtek, N/A
+  - **Rieles y Silenciador:** 0, ☒ No roscado
+  - **Modos de Disparo:** Semi-automático
+
+#### Rifles de Cerrojo
+- **AWM:**
+  - **Calibre y Cargadores:** .338 LM, 5 balas
+  - **Requisitos de Nivel y Precio:** Spectre, Nivel 3, 35249 TK
+  - **Rieles y Silenciador:** 1, ✓ Cañón roscado
+- **M190A3 Springfield:**
+  - **Calibre y Cargadores:** .30-06, 5 balas internas
+  - **Requisitos de Nivel y Precio:** Spectre, Nivel 1, 2308 TK
+  - **Rieles y Silenciador:** 0, ☒ No roscado
+- **Mosin Nagant:**
+  - **Calibre y Cargadores:** 7.62x54MMR, 5 balas internas
+  - **Requisitos de Nivel y Precio:** Spectre, Nivel 1, 2229 TK
+  - **Rieles y Silenciador:** 0, ☒ No roscado
+- **Hunter 85:**
+  - **Calibre y Cargadores:** Sako Hunter 85, 7.62x51mm, 4 balas
+  - **Requisitos de Nivel y Precio:** Spectre, Nivel 1, 2464 TK
+  - **Rieles y Silenciador:** 0, ☒ No roscado
+
+#### Rifles Francotirador
+- **Barret:**
+  - **Calibre y Cargadores:** Barrett M107A1, .50 BMG, 5 balas
+  - **Requisitos de Nivel y Precio:** Spectre, Nivel 5, 65338 TK
+  - **Rieles y Silenciador:** 1, ✓ Cañón roscado
+- **Dragunov:**
+  - **Calibre y Cargadores:** Dragunov (SVD), 7.62x54MMR, 10 balas, 15 balas
+  - **Requisitos de Nivel y Precio:** Spectre, Nivel 3, 9484 TK
+  - **Rieles y Silenciador:** 1 (Riel lateral AK), ☒ No roscado
+
+#### Escopetas
+- **590A1:**
+  - **Calibre y Cargadores:** 12 Gauge, 8 balas (Actualmente eliminado)
+  - **Requisitos de Nivel y Precio:** ???? TK
+  - **Rieles y Silenciador:** 1, ☒ No roscado
+- **Saiga 12:**
+  - **Calibre y Cargadores:** 12 Gauge, 5 balas, 20 balas de tambor
+  - **Requisitos de Nivel y Precio:** Spectre, Nivel 3, 5614 TK
+  - **Rieles y Silenciador:** 1 (Riel lateral AK), ✓ Roscado
+
+#### Escopetas Únicas
+- **JW Benelli M2:**
+  - **Calibre y Cargadores:** 12 Gauge, 8+1 balas
+  - **Requisitos de Nivel y Precio:** Merchant of Death + DLC (Spectre @ Nivel 1), 5502 TK
+  - **Rieles y Silenciador:** 1, ✓ Roscado
+
+#### Ametralladoras Ligeras (LMG)
+- **BAR:**
+  - **Calibre y Cargadores:** .30-06, 20 balas
+  - **Requisitos de Nivel y Precio:** Spectre, 5494 TK
+  - **Rieles y Silenciador:** 0, ☒ No roscado
+  - **Modos de Disparo:** Automático completo
+- **XM250 LMG:**
+  - **Calibre y Cargadores:** 6.8x51mm, 100 balas en caja
+  - **Requisitos de Nivel y Precio:** The Collector, Drop, Nivel 3
+  - **Rieles y Silenciador:** ✓ Cañón roscado
+  - **Modos de Disparo:** Automático completo
 
 ---
 
